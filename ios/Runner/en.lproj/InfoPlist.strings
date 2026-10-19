@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "scan Qr for Web login";
+NSPhotoLibraryUsageDescription = "upload photo ";
+PermissionGroupNotification = "Lead Alert Need Permission";

@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "இணைய உள்நுழைவுக்கான Qr ஐ ஸ்கேன் செய்யவும்";
+NSPhotoLibraryUsageDescription = "புகைப்படத்தை பதிவேற்று";
+PermissionGroupNotification = "லீட் எச்சரிக்கைக்கு அனுமதி தேவை";

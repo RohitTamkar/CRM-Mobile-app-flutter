@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "700529442570",
+    "project_id": "sensiblecrm",
+    "storage_bucket": "sensiblecrm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700529442570:android:9697c50543445418efc4f3",
+        "android_client_info": {
+          "package_name": "com.sensible.callLogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk-tLRBpXzGp9oxnCYi_2XVsLtVx01-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700529442570:android:b991203a40dc9ce4efc4f3",
+        "android_client_info": {
+          "package_name": "com.sensiblebiz.crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk-tLRBpXzGp9oxnCYi_2XVsLtVx01-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700529442570:android:e574c4c9fc3b6860efc4f3",
+        "android_client_info": {
+          "package_name": "com.sensiblebiz.crmlite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk-tLRBpXzGp9oxnCYi_2XVsLtVx01-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

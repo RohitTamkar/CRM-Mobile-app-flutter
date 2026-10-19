@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "वेब लॉगिनसाठी Qr स्कॅन करा";
+NSPhotoLibraryUsageDescription = "फोटो अपलोड करा";
+PermissionGroupNotification = "लीड अलर्टला परवानगी आवश्यक आहे";
